@@ -1,8 +1,9 @@
 ﻿body {
-      background:url(../imagenes/descarga3.jpg);
-      
+      background:url(../imagenes/descarga5.jpg);
+            
 }
 
+/*
 h1 {
     font-size:50px;
 }
@@ -18,12 +19,16 @@ li{
 a {
          color:#000000;
 }
+*/
 
 .yellow {
          color:turquoise;
-         font-size:30px;
+         font-size:20px;
+         margin-right:1rem;
+         margin-left:1rem;
 }
 
+/*
 li a {
       color:pink;
 }
@@ -48,11 +53,24 @@ h2 {
 nav {
     width:95%;
     background:#fff;
-    margin:20px 10px;
+    margin:10px auto;
     padding:30px;
     border-radius:40px;
+    background-size:cover;
 }
 
 h2 {
     font-size:50px
 }
+*/
+
+.fotos{
+    height: 320px;
+    width: 320px;
+    align-self: flex-end;
+}
+.item{
+    margin: 10px;
+}
+@media screen and (max-wdth: 768px)
+
