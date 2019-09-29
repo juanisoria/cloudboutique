@@ -7,15 +7,12 @@
 h1 {
     font-size:50px;
 }
-
 li {
     font-size:30px;
 }
-
 li{
    color:#fff;
 }
-
 a {
          color:#000000;
 }
@@ -32,24 +29,18 @@ a {
 li a {
       color:pink;
 }
-
-
 b {
    color:#fff;
 }
-
 i {
    color:#fff;
 }
-
 h3 {
     color:#fff;
 }
-
 h2 {
     color:#fff;
 }
-
 nav {
     width:95%;
     background:#fff;
@@ -58,7 +49,6 @@ nav {
     border-radius:40px;
     background-size:cover;
 }
-
 h2 {
     font-size:50px
 }
@@ -73,4 +63,3 @@ h2 {
     margin: 10px;
 }
 @media screen and (max-wdth: 768px)
-
